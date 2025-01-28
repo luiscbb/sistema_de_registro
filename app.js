@@ -1,1 +1,1 @@
-.
+console.log("Ejecutando Sistema").
